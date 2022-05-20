@@ -16,7 +16,7 @@ Github repo link: https://github.com/thenoiseinspace/pwa-text-editor
 
 Heroku link: https://stark-dawn-18681.herokuapp.com/
 
-Screenshot: <img src="https://github.com/thenoiseinspace/pwa-text-editor/blob/screenshot.png">
+Screenshot: <img src="https://github.com/thenoiseinspace/pwa-text-editor/blob/main/screenshot.png">
 
 ## Credits
 
